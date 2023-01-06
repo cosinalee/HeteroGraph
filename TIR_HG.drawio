@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-06T08:43:32.462Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="PX037zZlOJpvOye39KcO" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-06T08:46:37.349Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="--TFNnLZc1fT7o1eg1ts" version="20.6.0" type="github">
   <diagram id="H3SxZ43efbbaYmBA8pNz" name="第 1 页">
-    <mxGraphModel dx="1426" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2037" dy="2303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1261,7 +1261,7 @@
           <mxGeometry x="30" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="K7jrmlSnKd5e08-iuxen-582" value="&lt;i&gt;UCP&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="508.12999999999994" y="450" width="70" height="21.65" as="geometry" />
+          <mxGeometry x="500.62999999999994" y="455.66" width="70" height="21.65" as="geometry" />
         </mxCell>
         <mxCell id="K7jrmlSnKd5e08-iuxen-590" value="&lt;font face=&quot;Helvetica&quot; color=&quot;#000000&quot;&gt;权益券特征&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontColor=#FF0000;align=center;" parent="1" vertex="1">
           <mxGeometry x="498.76000000000005" y="767.8" width="93.75" height="29.17" as="geometry" />
