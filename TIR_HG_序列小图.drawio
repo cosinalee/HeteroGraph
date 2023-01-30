@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-30T08:13:43.911Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="5RS1NCAHxBzZsVMEbYKR" version="20.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-30T08:21:10.712Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="ffSt9bWLcenK-OUuK9Ly" version="20.8.3" type="github">
   <diagram id="H3SxZ43efbbaYmBA8pNz" name="第 1 页">
-    <mxGraphModel dx="766" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1085" dy="985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -372,8 +372,8 @@
         <mxCell id="K7jrmlSnKd5e08-iuxen-298" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;concat&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;strokeColor=#000000;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1735.67" y="597.55" width="45" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="K7jrmlSnKd5e08-iuxen-372" value="&lt;font face=&quot;Helvetica&quot; color=&quot;#ff8000&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;券门槛—TOP核销店铺 &lt;b&gt;Coupon-Shop&lt;/b&gt; 序列&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Georgia;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="1684.79" y="829.1800000000002" width="256" height="30" as="geometry" />
+        <mxCell id="K7jrmlSnKd5e08-iuxen-372" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Helvetica&quot; color=&quot;#ff8000&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;券门槛—TOP核销店铺 Coupon-Shop 序列&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Georgia;fontSize=22;" parent="1" vertex="1">
+          <mxGeometry x="1654" y="829.18" width="325.21" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K7jrmlSnKd5e08-iuxen-636" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;container=0;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1748.17" y="578.3699999999999" width="10" height="10" as="geometry" />
@@ -1001,7 +1001,7 @@
             <mxPoint x="1074.8461538461538" y="469.06142857142856" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D2Ym_hAoNKhn_BesaTCI-67" value="&lt;span style=&quot;color: rgb(255, 128, 0); font-family: Helvetica; font-size: 12px;&quot;&gt;用户—券核销店铺&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;color: rgb(255, 128, 0); font-family: Helvetica; font-size: 12px;&quot;&gt;User-Shop&lt;/b&gt;&lt;span style=&quot;color: rgb(255, 128, 0); font-family: Helvetica; font-size: 12px;&quot;&gt;&amp;nbsp;序列&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Georgia;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="D2Ym_hAoNKhn_BesaTCI-67" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;color: rgb(255, 128, 0); font-family: Helvetica;&quot;&gt;用户—券核销店铺&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 128, 0); font-family: Helvetica;&quot;&gt;User-Shop&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 128, 0); font-family: Helvetica;&quot;&gt;&amp;nbsp;序列&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Georgia;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="1243.92" y="829.1800000000001" width="256" height="29.999999999999986" as="geometry" />
         </mxCell>
       </root>
