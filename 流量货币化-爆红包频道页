@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T14:30:57.806Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="hcXGjd3pG3m7DMCLz49i" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-30T14:36:48.251Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="3F6yXc9hDK-N92b42uMO" version="22.0.8" type="github">
   <diagram name="第 1 页" id="rtUPwbAB2ClZ1OvDXDv0">
     <mxGraphModel dx="909" dy="1750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -54,7 +54,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XGOTVCWeTOJSuXfi3Fag-7" value="货币化实时信号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="XGOTVCWeTOJSuXfi3Fag-7" value="实时信号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="550" y="230" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XGOTVCWeTOJSuXfi3Fag-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XGOTVCWeTOJSuXfi3Fag-8" target="XGOTVCWeTOJSuXfi3Fag-9">
@@ -93,10 +93,10 @@
         <mxCell id="XGOTVCWeTOJSuXfi3Fag-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.01;entryY=0.129;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XGOTVCWeTOJSuXfi3Fag-5" target="XGOTVCWeTOJSuXfi3Fag-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XGOTVCWeTOJSuXfi3Fag-30" value="货币化埋点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XGOTVCWeTOJSuXfi3Fag-30" value="流量调控埋点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="457.5" y="60" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XGOTVCWeTOJSuXfi3Fag-31" value="货币化数据 实时处理模块" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XGOTVCWeTOJSuXfi3Fag-31" value="&amp;nbsp;数据实时处理模块" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="567.5" y="50" width="155" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XGOTVCWeTOJSuXfi3Fag-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
@@ -117,11 +117,11 @@
         <mxCell id="XGOTVCWeTOJSuXfi3Fag-40" value="2.排序请求" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="170" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XGOTVCWeTOJSuXfi3Fag-43" value="3.货币化排序" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XGOTVCWeTOJSuXfi3Fag-43" value="3.商品排序" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="414" y="170" width="96" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XGOTVCWeTOJSuXfi3Fag-46" value="重排 &amp;amp; 货币机制" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="325" y="350" width="100" height="30" as="geometry" />
+        <mxCell id="XGOTVCWeTOJSuXfi3Fag-46" value="重排 &amp;amp; 流量权益机制" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="312.5" y="350" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XGOTVCWeTOJSuXfi3Fag-47" value="准入机制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="380" width="60" height="20" as="geometry" />
