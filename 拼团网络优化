@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-13T15:04:57.911Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="LK2coYJxr0hnIP70J8qF" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-13T15:10:34.893Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="XamdKPSlvA3y8qSP2Zw7" version="24.4.0" type="github">
   <diagram name="第 1 页" id="kZpdZohJs6QsB6L5pzVX">
-    <mxGraphModel dx="1593" dy="2042" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="2152" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1095,6 +1095,35 @@
             <mxPoint x="311.13999999999993" y="395" as="sourcePoint" />
             <mxPoint x="311.13999999999993" y="370" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ur7Uit1lmlCmyUhZqniU-474" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://intranetproxy.alipay.com/skylark/lark/0/2023/png/24256513/1689861729261-9c9acc98-b9fe-48ac-baa9-e04347bce43d.png;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="30" width="747.64" height="595" as="geometry" />
+        </mxCell>
+        <mxCell id="ur7Uit1lmlCmyUhZqniU-475" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://intranetproxy.alipay.com/skylark/lark/0/2023/png/24256513/1689860064532-124259a5-7526-4584-89a7-0e790a321d44.png;" vertex="1" parent="1">
+          <mxGeometry x="1727" y="1350" width="680.72" height="790" as="geometry" />
+        </mxCell>
+        <mxCell id="ur7Uit1lmlCmyUhZqniU-476" value="DNN+BN+ReLU(256)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1254.1599999999999" y="1022" width="164.94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ur7Uit1lmlCmyUhZqniU-477" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://intranetproxy.alipay.com/skylark/lark/0/2023/png/24256513/1689857540695-18c5a228-f738-48b3-a9f1-122fe39e6f87.png;" vertex="1" parent="1">
+          <mxGeometry x="270" y="870" width="802.48" height="646" as="geometry" />
+        </mxCell>
+        <mxCell id="ur7Uit1lmlCmyUhZqniU-478" value="DNN+BN+ReLU(512)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="1062" width="213.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ur7Uit1lmlCmyUhZqniU-481" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ur7Uit1lmlCmyUhZqniU-479" target="ur7Uit1lmlCmyUhZqniU-480">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ur7Uit1lmlCmyUhZqniU-479" value="DNN+BN+ReLU(128)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1275.87" y="980" width="121.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ur7Uit1lmlCmyUhZqniU-482" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ur7Uit1lmlCmyUhZqniU-480">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1337" y="909.9999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ur7Uit1lmlCmyUhZqniU-480" value="Add + Sigmod" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290.87" y="930" width="91.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
