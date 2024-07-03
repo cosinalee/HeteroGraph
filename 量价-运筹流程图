@@ -1,19 +1,68 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T17:22:21.040Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="EtBJGkYL6V4LK_kP2Jmp" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-03T02:30:51.544Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="1CkaA_lYDTSgQZs-z_Ap" version="24.6.4" type="github">
   <diagram name="第 1 页" id="KwfH0f9UY2qNMSWyAJx-">
-    <mxGraphModel dx="1434" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="M67OWNER_Q0f4PgP-hmQ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="M67OWNER_Q0f4PgP-hmQ-1">
+        <mxCell id="M67OWNER_Q0f4PgP-hmQ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="240" as="targetPoint" />
+            <mxPoint x="380" y="180" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M67OWNER_Q0f4PgP-hmQ-1" value="预算 &amp;amp; 商品集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="140" width="120" height="40" as="geometry" />
+        <mxCell id="M67OWNER_Q0f4PgP-hmQ-4" value="预算池 &amp;amp; 待定价商品集" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6;" vertex="1" parent="1">
+          <mxGeometry x="300" y="130" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="M67OWNER_Q0f4PgP-hmQ-3" value="预算 &amp;amp; 商品集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="240" width="120" height="40" as="geometry" />
+        <mxCell id="M67OWNER_Q0f4PgP-hmQ-5" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="240" width="160" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="M67OWNER_Q0f4PgP-hmQ-6" value="D2 调度" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M67OWNER_Q0f4PgP-hmQ-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="560" y="260" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="M67OWNER_Q0f4PgP-hmQ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;curved=1;" edge="1" parent="1" source="M67OWNER_Q0f4PgP-hmQ-8" target="M67OWNER_Q0f4PgP-hmQ-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="605" y="230" />
+              <mxPoint x="670" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M67OWNER_Q0f4PgP-hmQ-8" value="商品价格-销量样本" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6;" vertex="1" parent="1">
+          <mxGeometry x="550" y="130" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="M67OWNER_Q0f4PgP-hmQ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="M67OWNER_Q0f4PgP-hmQ-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M67OWNER_Q0f4PgP-hmQ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="M67OWNER_Q0f4PgP-hmQ-9" target="M67OWNER_Q0f4PgP-hmQ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M67OWNER_Q0f4PgP-hmQ-9" value="训练任务调度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="280" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M67OWNER_Q0f4PgP-hmQ-10" value="量价模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="340" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M67OWNER_Q0f4PgP-hmQ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;curved=1;" edge="1" parent="1" source="M67OWNER_Q0f4PgP-hmQ-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M67OWNER_Q0f4PgP-hmQ-12" value="商品多维度特征" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6;" vertex="1" parent="1">
+          <mxGeometry x="680" y="130" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="M67OWNER_Q0f4PgP-hmQ-15" value="JOIN 日滚更新" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="200" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M67OWNER_Q0f4PgP-hmQ-22" value="AOP平台" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M67OWNER_Q0f4PgP-hmQ-24" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="260" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
