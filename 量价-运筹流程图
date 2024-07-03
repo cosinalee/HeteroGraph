@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-03T05:35:23.020Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="XVXQV1kAIOoxThTi3I_q" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-03T05:37:40.876Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="99-FKMyWPn2o-7CYoyLM" version="24.6.4" type="github">
   <diagram name="第 1 页" id="KwfH0f9UY2qNMSWyAJx-">
     <mxGraphModel dx="2295" dy="932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,9 +26,9 @@
           <mxGeometry x="300" y="30" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="M67OWNER_Q0f4PgP-hmQ-6" value="D2 调度" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="210" width="60" height="30" as="geometry" />
+          <mxGeometry x="318" y="210" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="M67OWNER_Q0f4PgP-hmQ-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=8;" vertex="1" parent="1">
+        <mxCell id="M67OWNER_Q0f4PgP-hmQ-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;arcSize=8;strokeColor=#d6b656;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="560" y="260" width="190" height="130" as="geometry" />
         </mxCell>
         <mxCell id="M67OWNER_Q0f4PgP-hmQ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;curved=1;" edge="1" parent="1" source="M67OWNER_Q0f4PgP-hmQ-8" target="M67OWNER_Q0f4PgP-hmQ-9">
@@ -50,7 +50,7 @@
         <mxCell id="M67OWNER_Q0f4PgP-hmQ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="M67OWNER_Q0f4PgP-hmQ-9" target="M67OWNER_Q0f4PgP-hmQ-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M67OWNER_Q0f4PgP-hmQ-9" value="训练任务调度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M67OWNER_Q0f4PgP-hmQ-9" value="训练任务调度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="620" y="280" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M67OWNER_Q0f4PgP-hmQ-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="M67OWNER_Q0f4PgP-hmQ-10" target="M67OWNER_Q0f4PgP-hmQ-26">
@@ -64,7 +64,7 @@
             <mxPoint x="440" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M67OWNER_Q0f4PgP-hmQ-10" value="量价模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M67OWNER_Q0f4PgP-hmQ-10" value="量价模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="620" y="340" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M67OWNER_Q0f4PgP-hmQ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;curved=1;" edge="1" parent="1" source="M67OWNER_Q0f4PgP-hmQ-12">
