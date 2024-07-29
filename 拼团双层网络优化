@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.4">
   <diagram name="第 1 页" id="ewnecVBxRIZaFAW1rjVW">
-    <mxGraphModel dx="82" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="908" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1698,6 +1698,9 @@
             <mxPoint x="1269.38" y="645.82" as="sourcePoint" />
             <mxPoint x="1242.83" y="639.46" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9_pn7QM6XJJWlpxRup49-520" value="拼团用户Attention网络" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1168.03" y="940.22" width="151.97" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
