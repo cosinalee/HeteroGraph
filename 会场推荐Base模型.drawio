@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.4">
   <diagram id="H3SxZ43efbbaYmBA8pNz" name="第 1 页">
-    <mxGraphModel dx="1035" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -942,10 +942,10 @@
         <mxCell id="cysShiUN6PF5TXXtmTjT-187" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fontSize=22;strokeColor=#000000;fillColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="442.08000000000004" y="578.1199999999999" width="161.92" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="utKBVOgc65tpkR1kOQrI-1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;CVR&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;转化率&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="utKBVOgc65tpkR1kOQrI-1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;CVR&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;转化率&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="923.69" y="320" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="utKBVOgc65tpkR1kOQrI-2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;CVR = CTR * CVR&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;访购率&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="utKBVOgc65tpkR1kOQrI-2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;CTVR = CTR * CVR&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;访购率&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="769.23" y="250" width="125.92" height="50" as="geometry" />
         </mxCell>
       </root>
